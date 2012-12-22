@@ -1,0 +1,10 @@
+Partlist exported from C:/Users/agoessling/Dropbox/Projects/PSK_LED/Eagle/LightHouse/LightHouse-LED-v10.sch at 9/9/2012 5:29:32 PM
+
+Assembly variant: 
+
+Part Value         Device        Package   Description              
+JP1  M04_RIGHT_POL M04_RIGHT_POL 640455-4                                      
+R1   100           R-US_R1206    R1206     RESISTOR, American symbol
+U$1  CLP6C-FKB     CLP6C-FKB     CLP6C-FKB RGB LED Cree 50mA SMD    
+U$2  CLP6C-FKB     CLP6C-FKB     CLP6C-FKB RGB LED Cree 50mA SMD    
+U$3  CLP6C-FKB     CLP6C-FKB     CLP6C-FKB RGB LED Cree 50mA SMD    
